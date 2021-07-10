@@ -1,3 +1,13 @@
 body {
     color: #0066cc;
 }
+
+.icon {
+    width: 120px;
+    padding: 4px;
+}
+
+.back{
+    border-radius: 30px;
+    margin-top: 20px;
+}
